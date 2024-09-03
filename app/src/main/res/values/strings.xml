@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">перевод</string>
+    <string name="button">Начать</string>
+    <string name="hint1">Введите логин</string>
+    <string name="hint2">Введите пароль</string>
+    <string name="seonda">Выбор единиц информации</string>
+    <string name="some_id">
+      Конвертация единиц информации
+    </string>
+    <string-array name="фигуры">
+        <item>Байты</item>
+        <item>Килобайты</item>
+
+
+    </string-array>
+</resources>
